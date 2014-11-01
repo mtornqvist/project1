@@ -35,16 +35,9 @@ sahapurueriste, Puuvuoraus, Tiilikatto.
 
 Sisäpinnat: Kipsilevy
 
-  ----------------------- ------------- ----------- --------------
-  Kavallintie 43 b (m2)   Kokonaisala   Kerrosala   Huoneistoala
-  2.                      126           126         114
-  1.                      137           137         126
-  Kellari                 126           62          58
-  Summa                   389           324         298
-                                                    
-  Muut Tilat                            64          51
-  Summa                                 389         349
-  ----------------------- ------------- ----------- --------------
+  Kavallintie 43 b (m2) 2. 1. Kellari Summa   Kokonaisala 126 137 126 389   Kerrosala 126 137 62 324   Huoneistoala 114 126 58 298
+  ------------------------------------------- ----------------------------- -------------------------- -----------------------------
+  Muut Tilat Summa                                                          64 389                     51 349
 
 Huoneluku: 8 -10 + keittiö, kylpyhuone, 2 WC + kellaritilat
 
@@ -254,11 +247,12 @@ Turvajärjestelmä:
 
 Kaapelisto asennettu.
 
-TV antenni: 60-luvulta
+**TV antenni: 60-luvulta**
 
-Istutukset: piha, nurmikko, tuija-aidat ja istutukset täysin uudistettu
-2005-2006 ottaen huomioon talon tyyliä. Omenapuut ja osa istutuksista
-(osa mustaherukoista, ruusupensaista etc) ovat alkuperäisiä.
+**Istutukset: piha, nurmikko, tuija-aidat ja istutukset täysin
+uudistettu 2005-2006 ottaen huomioon talon tyyliä. Omenapuut ja osa
+istutuksista (osa mustaherukoista, ruusupensaista etc) ovat
+alkuperäisiä.**
 
 Ympäristö:
 
