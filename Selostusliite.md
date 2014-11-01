@@ -282,3 +282,5 @@ Betonikatto on vanha mutta ollut tiivis. Kellari oli kosteahko vuonna
 sadevesijärjestelmän asennuksen jälkeen.
 
 Ei vaurioita sen jälkeen kuin talo entisöitiin 2003-2004.
+
+Nya ideer kommer har
